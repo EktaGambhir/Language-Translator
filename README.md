@@ -1,0 +1,1 @@
+This is a Language Translation based small project, where a user can give a voice command in his/her own language via computer's microphone, or any other device which can take human voice as input. The voice command captured will then trigger a language translation module that can convert this language to some other language of your choice in near Real Time
